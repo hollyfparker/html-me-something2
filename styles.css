@@ -13,4 +13,7 @@ body {
     border-color:black;
     border-width: 5px;
   }
-
+  
+  p.align {
+    align-content: center;
+  }
